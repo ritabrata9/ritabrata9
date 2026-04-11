@@ -14,6 +14,6 @@ I build backend systems and scalable APIs. I focus on efficient design and clean
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritabrata9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ritabrata9&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=ritabrata9&color=blueviolet)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
