@@ -1,6 +1,6 @@
 # 💫 About Me:
-I build backend systems and scalable APIs. I focus on efficient design and clean architecture. I've built projects involving dynamic data handling, file-based persistence, and system-level logic, and I'm currently exploring web backends and distributed system fundamentals.
-
+I build backend systems and scalable APIs.
+[My Resume](https://drive.google.com/file/d/1bv98S8L_T_-WhOT1J_CdMnYMNicPPwT7/view?usp=sharing)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritabrata-basak/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritabratabasak2005@gmail.com) 
